@@ -32,6 +32,11 @@ Features
 
 Screenshots
 ---------------
+![-2](https://github.com/SonuYadav12/RecipeApp-ReactNative/assets/101589973/8328646e-2d94-43e8-b1ea-44e778aee729)
+
+![-1](https://github.com/SonuYadav12/RecipeApp-ReactNative/assets/101589973/797e1580-c57b-486f-b3da-96063e89d89e)
+
+![0](https://github.com/SonuYadav12/RecipeApp-ReactNative/assets/101589973/db5f0297-efd1-496b-acea-516b94125021)
 
 ![1](https://github.com/SonuYadav12/RecipeApp-ReactNative/assets/101589973/3d4ef17b-dc24-4ce2-aff9-3b94805685b9)
 
